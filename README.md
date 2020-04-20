@@ -12,6 +12,8 @@ Ozone is a scalable, redundant, and distributed object store for Hadoop. Apart f
  * HIGHLY AVAILABLE: Ozone is a fully replicated system that is designed to survive multiple failures.
 
 ## Documentation
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Felek%2Fapache-hadoop-ozone.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Felek%2Fapache-hadoop-ozone?ref=badge_shield)
+
 
 The latest documentation is generated together with the releases and hosted on the apache side.
 
@@ -96,3 +98,6 @@ For more information, you can check the [Contribution guideline](./CONTRIBUTING.
 ## License
 
 The Apache Hadoop Ozone  project is licensed under the Apache 2.0 License. See the [LICENSE](./LICENSE.txt) file for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Felek%2Fapache-hadoop-ozone.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Felek%2Fapache-hadoop-ozone?ref=badge_large)
